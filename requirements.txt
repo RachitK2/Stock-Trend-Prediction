@@ -1,8 +1,8 @@
 streamlit
 numpy
 pandas
-yfinance
-matplotlib
-pandas_datareader
-tensorflow
-scikit-learn
+yfinance==0.2.40
+matplotlib==3.9.1
+pandas_datareader==0.10.0
+tensorflow==2.17.0
+scikit-learn==1.5.1
